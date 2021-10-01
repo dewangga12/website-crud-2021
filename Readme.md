@@ -7,5 +7,5 @@ Masukan nama kalian di sini:
   <li>Dikhi Achmad Dani</li>
   <li>Ilham Sinatrio Gumelar</li>
   <li>Zaed Abdullah</li>
-  <li>Dewangga Putra</li>
+  <li>Dewangga</li>
 </ul>
